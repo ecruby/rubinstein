@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require File.join(File.dirname(__FILE__),'..','lib','rubinstein.rb')
+
+Rubinstein::Game.run(Rubinstein.class_eval(File.read(ARGV[0])))

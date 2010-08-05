@@ -1,0 +1,20 @@
+= Rubinstein
+
+Rubinstein is a text-adventure game engine written in Ruby 
+
+== Installation and Usage
+
+In order to use Rubinstein, simply install the gem:
+  
+  gem install rubinstein
+
+Then to run a Rubinstein game, just run:
+
+  rubinstein my_game.rb
+
+== Coming Soon
+
+This is a very new project - detailed stuff coming soon.
+
+== Copyright
+Copyright (c) 2010 Kevin W. Gisi. Released under the MIT License
