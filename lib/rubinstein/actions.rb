@@ -1,4 +1,4 @@
-require 'lib/rubinstein/actions/movement'
+require 'rubinstein/actions/movement'
 
 module Rubinstein
   module Actions

@@ -1,4 +1,4 @@
-require 'lib/rubinstein/actions'
+require 'rubinstein/actions'
 
 module Rubinstein
   class Runner < BasicObject
